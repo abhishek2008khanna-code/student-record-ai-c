@@ -1,0 +1,45 @@
+============================================
+  AI-ASSISTED STUDENT RECORD MANAGEMENT
+============================================
+
+============== MAIN MENU ==============
+
+1. Add Student Details
+2. Search Student Record
+3. Display All Students
+4. Calculate Year-wise Average CGPA
+5. Delete Student Record
+6. Sort Students by SAP ID
+7. Sort Students by Name
+8. AI-Assisted Academic Advisor
+9. Exit
+
+Enter your choice: 1
+
+========== ADD STUDENT ==========
+
+Enter SAP ID:590032060
+Enter Roll Number: 101
+Enter Student Name: Abhishek Khanna
+Enter Phone Number: 9876543210
+Enter Email ID: abhishek@gmail.com
+Enter Year (1-4): 1
+Enter Current Semester (1-8): 1
+
+Enter SGPA for all 8 semesters.
+Enter 0 if result is not available.
+
+Semester 1 SGPA: 9.2
+Semester 2 SGPA: 8.8
+Semester 3 SGPA: 0
+Semester 4 SGPA: 0
+Semester 5 SGPA: 0
+Semester 6 SGPA: 0
+Semester 7 SGPA: 0
+Semester 8 SGPA: 0
+
+Student added successfully!
+
+Enter your choice: 9
+
+Thank you for using the Student Management System!
